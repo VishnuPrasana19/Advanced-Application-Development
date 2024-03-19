@@ -1,0 +1,52 @@
+/* Sidebar.css */
+
+.sidebar-container {
+  background-color: #414141;
+  color: #fff;
+  width: 250px;
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  padding-top: 60px; /* Adjust according to your header height */
+  display: flex;
+  flex-direction: column;
+}
+
+.sidebar-header {
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.sidebar-menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-item {
+  padding: 10px 0;
+  cursor: pointer;
+}
+
+.logo-button {
+  margin-top: auto;
+  background-color: #ff0000;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.logo-button:hover {
+  background-color: #cc0000;
+}
+.welcome-admin {
+  padding: 10px;
+  text-align: center;
+  font-size: x-large;
+  margin-right: 10%;
+  margin-top: -9%;
+}
