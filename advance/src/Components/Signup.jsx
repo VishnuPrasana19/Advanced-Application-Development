@@ -26,7 +26,7 @@ function Signup() {
                 <p className="content-item">
                   <label>
                     role
-                    <input type="text" placeholder="admin or" required="" />
+                    <input type="text" placeholder="admin or user" required="" />
                   </label>
                 </p>
                 <p className="content-item">

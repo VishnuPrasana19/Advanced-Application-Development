@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@mui/icons-material": "^5.15.14",
+    "@mui/material": "^5.15.14",
     "jquery": "^3.7.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
